@@ -4,7 +4,7 @@
 当控制板接上电池后，蓝色LED灯开始闪烁。表示控制板开始工作，等待蓝牙设备进行连接。接下来，以macOS平台演示如何连接。
 
 1.首先打开蓝牙偏好设置，可以看到名字以“HHKB”开头的键盘设备，这就是我们的键盘。
-![bluetooth_config](../images/bluetooth_config.png)
+![Bluetooth Config](../images/bluetooth_config.JPG)
 
 2.点击连接，等待其连接完成，显示已连接。
 接下来，按一下command+tab键，若可以进行任务切换，说明键盘可以使用了。

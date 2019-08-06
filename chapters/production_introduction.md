@@ -1,4 +1,4 @@
-![hhkb](../images/hhkb_black.jpeg)
+![HHKB Dual Mode Controller](../images/hhkb_black.jpeg)
 # 产品介绍
 
 ## 设计背景
