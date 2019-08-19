@@ -12,3 +12,6 @@ _book
 *.mobi
 *.pdf
 
+
+# macOS
+.DS_Store
