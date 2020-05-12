@@ -5,6 +5,7 @@
 * [安装说明](chapters/install.md)
 * [使用说明](chapters/how_to_use.md)
 * [蓝牙多设备绑定和切换](chapters/mutil_bond.md)
+* [使用 Logitech Flow](chapters/logitech_flow.md)
 * [功能快捷键](chapters/keyboard_shortcuts.md)
 * [固件更新](chapters/how_to_ota.md)
 * [更新记录](chapters/update_log.md)
