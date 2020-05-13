@@ -8,7 +8,7 @@ OTA(over the air programming)，空中升级，即通过无线传输的方式对
 
 1. 确保手机已经安装 nRF Toolbox 应用程序。
 2. 选择 nRF Toolbox 应用程序打开我们待更新的固件包。
-3. 在键盘上按 “Fn+Alt+T” 组合按键，使键盘进入 OTA 模式，此时蓝灯常亮。
+3. 在键盘上按 “Fn+右Alt+T” 组合按键，使键盘进入 OTA 模式，此时蓝灯常亮。
 4. 点击APP下方的 “SELECT DEVICE” 按钮，选择 HHKB_DFU，然后点击 Upload 按键，等待升级完成即可。
 
 说明：
