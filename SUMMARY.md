@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [产品介绍](chapters/production_introduction.md)
-* [安装说明](chapters/install.md)
+* [HHKB Pro 2 安装说明](chapters/hhkb_pro_2_install.md)
+* [HHKB Pro BT 安装说明](chapters/hhkb_pro_bt_install.md)
 * [使用说明](chapters/how_to_use.md)
 * [蓝牙多设备绑定和切换](chapters/mutil_bond.md)
 * [使用 Logitech Flow](chapters/logitech_flow.md)

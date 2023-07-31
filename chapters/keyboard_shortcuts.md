@@ -6,7 +6,7 @@ Fn + 右Alt + T|进入OTA模式
 Fn + 右Alt + U|切换为USB输入
 Fn + 右Alt + B|切换为蓝牙输入
 Fn + 右Alt + Z|清除所有设备的配对信息
-Fn + 右Alt + S|键盘进入待机状态 
+Fn + 右Alt + S|键盘进入休眠状态 
 Fn + 右Alt + 1、2、3、4|切换到设备1、2、3、4
 Fn + 右Alt + +|增加自动休眠时间
 Fn + 右Alt + -|减少自动休眠时间
