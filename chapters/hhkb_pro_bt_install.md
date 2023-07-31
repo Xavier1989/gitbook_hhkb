@@ -5,8 +5,7 @@
 安装分为以下几个步骤：
 
 ## 确认硬件连接
-![USB-C & Motherboard](../images/hhkb_pro_bt/HHKB_BT_Install_USB-C&Motherboard.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图1 USB-C 小板与主控板连接方式</center> 
+![图1 USB-C小板与主控板连接方式](../images/hhkb_pro_bt/HHKB_BT_Install_USB-C&Motherboard.JPG)
 
 收到硬件后，请先按照上图所示，将 USB-C 小板和主控板连接起来。
 
@@ -15,8 +14,7 @@
 这里要**特别注意**，连接线靠近 USB-C 小板的一端，端子做过处理，要窄一点。请保持收到货时的方向进行连接，否则会导致键盘外壳合不严实。
 
 ## 替换原有主控板
-![Motherboard install](../images/hhkb_pro_bt/HHKB_BT_Install_Motherboard.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图2 主控板安装效果</center> 
+![图2 主控板安装效果](../images/hhkb_pro_bt/HHKB_BT_Install_Motherboard.JPG)
 
 1. 首先拆掉原装主控板
 
@@ -31,8 +29,7 @@
 
 
 ## 替换 USB 小板
-![USB-C Board](../images/hhkb_pro_bt/HHKB_BT_Install_guide.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图3 USB-C 小板安装效果</center> 
+![图3 USB-C 小板安装效果](../images/hhkb_pro_bt/HHKB_BT_Install_guide.JPG)
 
 1. 拆下原装 Micro USB 电路部分，包括连接线一起整体移除。
 
@@ -43,8 +40,7 @@
 
 
 ## 连接各个端子
-![Assemble](../images/hhkb_pro_bt/HHKB_BT_Assemble.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图4 整体安装完成后的效果</center> 
+![图4 整体安装后的效果](../images/hhkb_pro_bt/HHKB_BT_Assemble.JPG)
 
 
 连接左侧 4 Pin USB 端子和右侧 10 Pin 端子。

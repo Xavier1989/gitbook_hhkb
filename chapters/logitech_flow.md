@@ -6,4 +6,4 @@
 ## 如何使用 Logitech Flow
 使用该功能的前提是首先要有一个支持 Logitech Flow(后文简称 Flow) 功能的鼠标，然后需要安装 [Logitech Options](https://support.logi.com/hc/zh-cn/articles/360025297893)（后文简称 Options） 软件，之后请参考[罗技官方教程](https://support.logi.com/hc/zh-cn/articles/360023188134)。 Options 会将我们的 HHKB 识别为 Craft 键盘。如下图：
 
-![craft](../images/craft_keyboard.jpg)
+![Craft](../images/craft_keyboard.jpg)

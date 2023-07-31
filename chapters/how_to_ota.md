@@ -5,7 +5,7 @@ OTA(over the air programming)，空中升级，即通过无线传输的方式对
 ## 如何获取最新固件
 关注微信公众号 XORLink，发送消息 “固件” 即可。
 
-![QR Code](../images/wechat.JPG)
+![公众号二维码](../images/wechat.JPG)
 ## 固件更新流程
 请看[操作视频](https://mp.weixin.qq.com/s/IxZT1mpbO_71S2s5kv5ndQ)，这里以 iOS 系统进行演示。
 

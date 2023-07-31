@@ -4,8 +4,7 @@
 
 硬件从 V3.1 版本开始，升级为 USB-C 接口。由于该接口尺寸大于外壳原有开孔，因此需要对原外壳孔做扩大处理。可使用小刀或矬子等工具处理。
 ## 主控板
-![Controller PCBA](../images/hhkb_pro2/controller_V2.1.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图1 V2.1 主控板</center> 
+![图1 V2.1 主控板](../images/hhkb_pro2/controller_V2.1.JPG)
 
 ## 安装
 首先用螺丝刀拆开外壳，拆下控制板固定螺丝，取下原装控制板。
@@ -15,5 +14,4 @@
 之后安装上我们自己的控制板，接上排线，最后接上电池。这里特别要注意一下电池的正负极顺序。
 **红色线为正极，黑色线为负极。红色线在上方，黑色线在下方。** 务必保证安装好后的电池线序如下图所示：
 
-![install](../images/hhkb_pro2/install.JPG)
-<center style="font-size:14px;color:#C0C0C0;">图2 安装完成后的效果</center> 
+![图2 安装完成后的效果](../images/hhkb_pro2/install.JPG)
