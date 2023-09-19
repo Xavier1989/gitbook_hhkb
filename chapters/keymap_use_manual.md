@@ -9,13 +9,12 @@
 1. 访问 [改键主页](https://keyboard.xorlink.com)，第一次访问较慢，请耐心等待。
 
     如果出现以下提示，说明当前使用的浏览器不支持一先提到的高级功能，请更换浏览器或升级到最新版本。
+    ![usb connection error](../images/keymap/usb_detection_error.jpeg)
 
-![usb connection error](../images/keymap/usb_detection_error.jpeg)
 2. 键盘通过 USB 线连接到 PC，确保键盘被操作系统正确识别。
 3. 网页上点击 “Authorize device” 按钮，此时弹出一个对话框，显示我们的设备 “HHKB Professional”。
 4. 选中 ”HHKB Professional“，点击“连接”按钮，进入到改键页面，如下图。
-
-![](../images/keymap/via.png)
+![VIA](../images/keymap/via.png)
 
 页面上方展示的是键盘及当前键位，左上角 LAYER 序号可切换键位层，共八层。页面下方展示的是可设置的键值。
 
