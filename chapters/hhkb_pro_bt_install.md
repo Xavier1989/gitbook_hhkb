@@ -2,9 +2,15 @@
 
 本教程仅适用于 HHKB Professional BT 键盘改造双模，搭配 HHKB BT DMC 主控使用。该主控[购买链接请点击这里](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.4e88523cYG7I9P&id=725033042681&ns=1&abbucket=16#detail)。
 
+## 视频教程
+[HHKB Professional BT USB + 蓝牙 (BLE) 双模改装视频教程](https://www.bilibili.com/video/BV11G411U7gL/)
+
+![扫码直达](../images/hhkb_pro_bt/hhkb_pro_bt_install_video_QR.png)
+
+## 文字教程
 安装分为以下几个步骤：
 
-## 确认硬件连接
+### 确认硬件连接
 ![图1 USB-C小板与主控板连接方式](../images/hhkb_pro_bt/HHKB_BT_Install_USB-C&Motherboard.JPG)
 
 收到硬件后，请先按照上图所示，将 USB-C 小板和主控板连接起来。
@@ -13,7 +19,7 @@
 
 这里要**特别注意**，连接线靠近 USB-C 小板的一端，端子做过处理，要窄一点。请保持收到货时的方向进行连接，否则会导致键盘外壳合不严实。
 
-## 替换原有主控板
+### 替换原有主控板
 ![图2 主控板安装效果](../images/hhkb_pro_bt/HHKB_BT_Install_Motherboard.JPG)
 
 1. 首先拆掉原装主控板
@@ -28,18 +34,18 @@
 
 
 
-## 替换 USB 小板
+### 替换 USB 小板
 ![图3 USB-C 小板安装效果](../images/hhkb_pro_bt/HHKB_BT_Install_guide.JPG)
 
 1. 拆下原装 Micro USB 电路部分，包括连接线一起整体移除。
 
-2. 尝试安装新的 USB-C 小板。这时会发现装不上，因为新的 USB-C 接口尺寸大于外壳接口开孔。因此需要将该孔扩大，可以使用小刀或矬子等工具进行操作。
+2. 尝试安装新的 USB-C 小板。这时会发现装不上，因为新的 USB-C 接口尺寸大于外壳接口开孔。因此需要将该孔扩大，可以使用美工刀或矬子等工具进行操作。
 
-3. 最后安装上 USB-C 小板。
+3. 最后安装上 USB-C 小板。注意 USB-C 小板右侧出线端很容易跟键盘上半部分发生干涉，导致外壳合不严。需要将此 4Pin 排线弯折一下，具体操作请参考视频教程。
 
 
 
-## 连接各个端子
+### 连接各个端子
 ![图4 整体安装后的效果](../images/hhkb_pro_bt/HHKB_BT_Assemble.JPG)
 
 
