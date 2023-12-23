@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [购买](chapters/how_to_buy.md)
 * [产品介绍](chapters/production_introduction.md)
 * [HHKB Pro 2 安装说明](chapters/hhkb_pro_2_install.md)
 * [HHKB Pro BT 安装说明](chapters/hhkb_pro_bt_install.md)
