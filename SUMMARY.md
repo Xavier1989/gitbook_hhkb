@@ -9,6 +9,7 @@
 * [蓝牙多设备绑定和切换](chapters/mutil_bond.md)
 * [使用 Logitech Flow](chapters/logitech_flow.md)
 * [键位自定义](chapters/keymap_use_manual.md)
+* [键盘配置](chapters/keyboard_config.md)
 * [其它功能说明](chapters/other_functions.md)
 * [功能快捷键](chapters/keyboard_shortcuts.md)
 * [固件更新](chapters/how_to_ota.md)
