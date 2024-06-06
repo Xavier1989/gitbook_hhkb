@@ -3,10 +3,9 @@
 本教程仅适用于 HHKB Professional Classic 和 Hybrid 键盘改造双模，搭配 HHKB DMC 主控使用。该主控[购买链接请点击这里](https://item.taobao.com/item.htm?id=781256708555&spm=a1z10.1-c.w4004-24866247055.4.4e1778e9X5P3jK&sku_properties=5919063:6536025)。
 
 ## 视频教程
-待更新
+[HHKB Professional Classic & Hybrid USB + 蓝牙 (BLE) 双模改装视频教程](https://www.bilibili.com/video/BV16r421c7qe/)
 
-[HHKB Professional Classic & Hybrid USB + 蓝牙 (BLE) 双模改装视频教程]
-
+![扫码直达](../images/hhkb_pro_hybrid/HHKB_Pro_Hybrid_install_video_QR.png)
 
 ## 文字教程
 ### 新主控板
