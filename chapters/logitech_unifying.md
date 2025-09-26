@@ -25,11 +25,11 @@ Unifying 是罗技 Unifying 优联无线技术。最多可以将六个罗技 Uni
 2. 若配对超时失败，请调整键盘位置，使其尽量靠近接收器后再试。
 
 ### Logitech Web Connect
-采用这种方式，需要先安装好 **[Logitech Options](https://support.logi.com/hc/zh-cn/articles/360025297893)** 这款软件。当 USB 优联接收器被电脑正确识别后，每次打开 **[Logitech Options](https://support.logi.com/hc/zh-cn/articles/360025297893)**，会弹出如下提示框:
+采用这种方式，不需要安装任何软件。
 
-![Logi Options 弹窗](../images/logi_options_web_connect_dialog.png)
+与 Bolt 连接一样，只需要浏览器访问 https://logiwebconnect.com 这个网页。然后根据网页提示一步步操作，正确识别到接收器后，即可进行添加设备等操作。
 
-点击 `打开 LOGI WEB CONNECT` 按钮，将跳转到 https://logiwebconnect.com 这个网页。根据网页提示一步步操作，正确识别到接收器后，即可进行添加设备等操作。
+连接完成后，键盘名称下方会显示一行小字： “已连接 Logi Unifying” 。如下图：
 
 ![Unifying Web Connect](../images/unifying_web_connect.png)
 
@@ -40,4 +40,4 @@ Unifying 是罗技 Unifying 优联无线技术。最多可以将六个罗技 Uni
 
 
 ## 兼容的接收器
-理论上兼容所有的罗技优联接收器，当前已测试过可兼容的接收器型号有 `C-U0007`、`C-U0008`。推荐搭配 `C-U0008`使用。
+理论上兼容所有的罗技优联接收器，当前已测试过可兼容的接收器型号有 `C-U0007`、`C-U0008`、`C-U0012`。推荐搭配 `C-U0008`使用。
