@@ -8,6 +8,7 @@
 * [HHKB Pro Classic & Hybrid 安装说明](chapters/hhkb_pro_hy_install.md)
 * [快速上手](chapters/how_to_use.md)
 * [多设备绑定和切换](chapters/mutil_bond.md)
+* [Logi Bolt 无线连接](chapters/logitech_bolt.md)
 * [2.4G Unifying 优联连接](chapters/logitech_unifying.md)
 * [使用 Logitech Flow](chapters/logitech_flow.md)
 * [键位自定义](chapters/keymap_use_manual.md)
