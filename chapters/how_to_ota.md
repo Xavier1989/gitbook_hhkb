@@ -7,7 +7,7 @@ OTA (Over The Air Programming)，空中升级，即通过无线传输的方式�
 
 ![公众号二维码](../images/wechat.JPG)
 ## 固件更新流程
-请看[操作视频](https://mp.weixin.qq.com/s/IxZT1mpbO_71S2s5kv5ndQ)，这里以 iOS 系统进行演示。
+请参考[文末视频教程](https://mp.weixin.qq.com/s/k6NKtzV30cqJAIbi_X2l4Q) 完成 OTA 固件更新。这里以 iOS 系统进行演示。
 
 具体操作步骤如下：
 

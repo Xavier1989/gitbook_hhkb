@@ -4,7 +4,7 @@ Web App 除了可修改键盘键位外，还可以对键盘的功能进行配置
 
 页面左下角的 `CONFIG` 菜单中，提供了 `LAYER` `SLEEP` `LED` `RESET` `FIRMWARE` `SAVE` 几个菜单。下面依次介绍各个子菜单的功能。
 ## LAYER
-键盘可以连接 4 台蓝牙设备和一台 USB 设备，总共 5 台设备。
+键盘可以连接 4 台无线设备和一台 USB 设备，总共 5 台设备。
 
 ![配置设备默认键位层](../images/keymap/default_layer.png)
 
