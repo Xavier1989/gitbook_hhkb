@@ -12,8 +12,8 @@ OTA (Over The Air Programming)，空中升级，即通过无线传输的方式�
 具体操作步骤如下：
 
 1. 确保键盘电池电量充足。建议连接上 USB 线，通过 USB 为键盘供电。
-2. 手机安装 nRF Toolbox 应用程序。
-3. 选择 nRF Toolbox 应用程序打开我们待更新的固件包。
+2. 手机安装 ~~nRF Toolbox~~ `nRF Device Firmware Update` 应用程序。
+3. 选择 ~~nRF Toolbox~~ `nRF Device Firmware Update` 应用程序打开我们待更新的固件包。
 4. 在键盘上按 `Fn + 右 Alt + T` 组合按键，使键盘进入 OTA 模式，此时 LED 指示灯常亮。
 5. APP 上点击 “Connect” 按钮，选择 HHKB_DFU。然后点击待更新的 zip 固件包。最后点击 Upload ，等待升级完成即可。
 
