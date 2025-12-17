@@ -1,5 +1,9 @@
 # 更新记录
 
+> 20251209
+
+    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.6.1
+
 > 20250926
 
     HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.5.0
@@ -7,6 +11,7 @@
 > 20250529
 
     HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.4.0
+
     
 > 20250521
 
