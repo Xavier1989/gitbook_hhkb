@@ -1,4 +1,11 @@
 # 更新记录
+> 20260428
+
+    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.7.0
+
+> 20260326
+
+    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.6.2
 
 > 20251209
 
