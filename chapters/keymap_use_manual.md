@@ -1,5 +1,8 @@
 # 键位自定义
+HHKB QMC 除了支持传统的 USB 有线 VIA 改键外，还支持无线 VIA 改键。有线和无线模式下的改键操作均相同。
+
 改装后的 HHKB 键盘，原先背部的 DIP 开关将失效。现在可通过 Web App，以图形交互的方式，实现全局键位的实时更新。
+
 这里使用的 App 是一个名为 VIA 的[开源项目](https://github.com/the-via/app)，感谢作者的开源。
 
 ## 准备
@@ -13,8 +16,8 @@
 
 ![usb connection error](../images/keymap/usb_detection_error.jpeg)
 
-2. 键盘通过 USB 线连接到 PC，确保键盘被操作系统正确识别。
-3. 网页上点击 “Authorize device” 按钮，此时弹出一个对话框，显示我们的设备 “HHKB Professional”。
+2. 键盘通过 USB 线或者蓝牙连接到 PC，确保键盘被操作系统正确识别。
+3. 网页上点击 “Authorize device” 按钮，此时弹出一个对话框，显示我们的设备 “HHKB Professional”。（⚠️：Windows 下因系统原因，在蓝牙连接方式下会显示为 Unknown Device）
 4. 选中 ”HHKB Professional“，点击“连接”按钮，进入到改键页面，如下图。
 
 ![VIA](../images/keymap/via_V1.3.3.png)
@@ -22,6 +25,8 @@
 页面上方展示的是键盘及当前键位，左上角 LAYER 序号可切换键位层，共八层。页面下方展示的是可设置的键值。
 
 改键操作很简单，首先页面上方选中需要修改的按键，然后下方点击目标键值，随即便完成了改键。整个改键交互是实时的，当你操作完成后，关闭网页即可。
+
+⚠️ 新键位会在键盘进入自动睡眠时自动保存。你也可以在界面左下角的 `CONFIG` 菜单下的 `SAVE` 子菜单中手动操作立即保存当前配置。
 
 ## 进阶
 页面左下角，有 BASIC、MEDIA、MACRO、LAYERS、SPECIAL、CUSTOM 几个菜单。下面逐一介绍。

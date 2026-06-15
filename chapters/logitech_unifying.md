@@ -1,7 +1,7 @@
 # 2.4G Unifying 优联连接
 Unifying 是罗技 Unifying 优联无线技术。最多可以将六个罗技 Unifying 优联无线鼠标或键盘连接至一只小巧又节省空间的 Unifying 优联 USB 接收器。
 
-自 V1.4.0 固件起，HHKB DMC 已支持 2.4G Unifying 优联连接方式，兼容罗技 USB 优联接收器（Logitech USB Unifying Receiver）。这意味着用户可以将改装后的 HHKB 键盘直接与现有的罗技优联接收器进行配对连接使用。
+自 V1.4.0 固件起，HHKB QMC 已支持 2.4G Unifying 优联连接方式，兼容罗技 USB 优联接收器（Logitech USB Unifying Receiver）。这意味着用户可以将改装后的 HHKB 键盘直接与现有的罗技优联接收器进行配对连接使用。
 
 下面介绍如何与罗技优联接收器进行配对连接。
 

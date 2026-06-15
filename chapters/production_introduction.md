@@ -1,15 +1,31 @@
-![HHKB Dual Mode Controller V2.1](../images/hhkb_black.jpeg)
+![HHKB Quad Mode Controller V2.1](../images/hhkb_black.jpeg)
 # 产品介绍
 
-## 产品简介
+**HHKB QMC（Quad Mode Controller）** 支持：
+* **USB**
+* **Bluetooth LE**
+* **Logitech Unifying**
+* **Logitech Bolt**
 
-这是用于 HHKB 键盘的多模键盘控制器，用以替换 HHKB 键盘原有的控制器。该控制器支持 USB 、蓝牙（BLE）、Logi Bolt 无线连接以及 2.4G  Unifying 优联连接。
+四种连接方式，一个主控全部搞定。
+
+它不仅是首款四模 HHKB 主控，也让 HHKB 成为首个同时支持 USB、BLE、Unifying 和 Bolt 的键盘。
+
+
+HHKB QMC (Quad Mode Controller)
+
+USB · BLE · Unifying · Bolt
+
+The first HHKB controller supporting all four connection methods.
+
+## 产品简介
+这是适用于 HHKB 的多模键盘控制器，用来替换 HHKB 键盘原有的主控 PCB。该控制器支持 USB 、蓝牙（BLE）、Logi Bolt 无线连接以及 2.4G  Unifying 优联无线连接。
 
 目前支持 HHKB 全系列所有 ANSI 配列键盘。包括 HHKB Professional Pro 2、BT、Classic、Hybrid。
 
-蓝牙、Bolt 和优联连接均支持多设备绑定和切换，加上 USB，最多可连接 5 台设备并实现无缝切换。特别适合单键盘多主机的使用场景。
+蓝牙、Bolt 和优联连接均支持多设备绑定和切换，加上 USB，最多可连接 5 台设备并实现无缝切换。通过键盘快捷键切换连接，无需物理开关，特别适合单键盘多主机的使用场景。
 
-其中 HHKB Pro 2 和 Classic 主控板设计有锂电池充电功能，键盘内装入一块锂电池，即可变身为一款无线双模键盘。控制器使用最新的蓝牙芯片，支持蓝牙 5.0 特性。同时 2.4G 连接兼容罗技优联接收器。
+其中 HHKB Pro 2 和 Classic 主控板设计有锂电池充电功能，键盘内装入一块锂电池，即可变身为一款无线多模键盘。控制器使用最新的蓝牙芯片，支持蓝牙 5.0 特性。同时 2.4G 连接兼容罗技优联接收器。
 
 升级你的 HHKB 键盘非常简单，拆下原有主控板，替换即可。
 
@@ -17,8 +33,8 @@
 这几款键盘主控板具有如下特点。
 * 支持 USB 、蓝牙、 Bolt、Unifying 优联四种连接输入方式。
 * 蓝牙为 5.0，相比传统蓝牙，功耗更低，带来更长续航。
-* 蓝牙、Bolt 和优联均支持多设备绑定和切换，毫秒级切换延迟。
-* 支持键位自定义和自动切换。
+* 蓝牙、Bolt 和优联均支持多设备绑定和切换，毫秒级切换延迟；通过键盘快捷键切换连接，无需物理开关。
+* 支持无线 VIA 键位自定义和自动切换。
 * 支持罗技 Logitech Flow 功能。配合相应罗技鼠标，实现键鼠无缝自动切换。
 * HHKB Pro 2 和 Classic 主控板集成锂电池充电管理功能。装入锂电池，变身无线键盘，摆脱有线束缚。
 * 完善的功耗优化。深度睡眠模式下，按每天 8 小时使用时间计算。HHKB Pro 2 主控搭配 2000mAh 电池可使用约两个月。 HHKB Pro Classic 搭配 1500mAh 电池，续航可达半年。HHKB Pro BT 和 Hybrid 主控有比原版更长的续航，使用两节南孚 5 号电池，续航约半年。
@@ -26,7 +42,7 @@
 ## 设计背景
 **2019年**
 
-手里有一把 HHKB Professional 2，Type-S 版本，该版本键盘于 2011 年上市销售至今。与之相似的 Professional 2 普通版本于 2006 年推出。两者的区别仅仅是前者使用起来噪音更小一些。这两款键盘均只支持 USB 连接，于是本人尝试对其进行改装，以增加蓝牙连接。最终便有了大家看到的 HHKB Pro 2 DMC 主控。
+手里有一把 HHKB Professional 2，Type-S 版本，该版本键盘于 2011 年上市销售至今。与之相似的 Professional 2 普通版本于 2006 年推出。两者的区别仅仅是前者使用起来噪音更小一些。这两款键盘均只支持 USB 连接，于是本人尝试对其进行改装，以增加蓝牙连接。最终便有了大家看到的 HHKB Pro 2 QMC 主控。
 
 **2023年**
 

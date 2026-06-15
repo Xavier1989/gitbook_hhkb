@@ -1,9 +1,9 @@
 # HHKB Pro BT 安装教程
 
-本教程仅适用于 HHKB Professional BT 键盘改造双模，搭配 HHKB BT DMC 主控使用。该主控[购买链接请点击这里](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.4e88523cYG7I9P&id=725033042681&ns=1&abbucket=16#detail)。
+本教程仅适用于 HHKB Professional BT 键盘改造多模，搭配 HHKB BT QMC 主控使用。该主控[购买链接请点击这里](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.4e88523cYG7I9P&id=725033042681&ns=1&abbucket=16#detail)。
 
 ## 视频教程
-[HHKB Professional BT USB + 蓝牙 (BLE) 双模改装视频教程](https://www.bilibili.com/video/BV11G411U7gL/)
+[HHKB Professional BT USB + 蓝牙 (BLE) + Bolt + Unifying 四模改装教程](https://www.bilibili.com/video/BV11G411U7gL/)
 
 ![扫码直达](../images/hhkb_pro_bt/hhkb_pro_bt_install_video_QR.png)
 

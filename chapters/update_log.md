@@ -1,4 +1,9 @@
 # 更新记录
+> 20260611
+
+    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.8.0
+    由 DMC 正式更名为 QMC。
+
 > 20260428
 
     HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.7.0
