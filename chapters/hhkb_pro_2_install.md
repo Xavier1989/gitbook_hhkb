@@ -4,7 +4,7 @@
 
 硬件从 V3.1 版本开始，升级为 USB-C 接口。由于该接口尺寸大于外壳原有开孔，因此需要对原外壳孔做扩大处理。可使用美工刀或矬子等工具处理。
 ## 视频教程
-[HHKB Professional 2 USB + 蓝牙 (BLE) 双模改装视频教程](https://www.bilibili.com/video/BV1RM411d7et/)
+[HHKB Professional 2 USB + 蓝牙 (BLE) + Bolt + Unifying 四模改装教程](https://www.bilibili.com/video/BV1RM411d7et/)
 
 ![扫码直达](../images/hhkb_pro2/hhkb_pro2_install_video_QR.png)
 
