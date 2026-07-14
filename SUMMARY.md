@@ -16,6 +16,7 @@
 * [睡眠模式](chapters/keyboard_sleep.md)
 * [其它功能说明](chapters/other_functions.md)
 * [功能快捷键](chapters/keyboard_shortcuts.md)
+* [键盘支持列表](chapters/keyboard_support_list.md)
 * [固件更新](chapters/how_to_ota.md)
 * [更新记录](chapters/update_log.md)
 * [Q&A](chapters/Q&A.md)

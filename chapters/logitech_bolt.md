@@ -1,7 +1,7 @@
 #  Logi Bolt 无线连接
 Bolt 是罗技的下一代无线技术。当兼容的鼠标和键盘通过 Bolt USB 接收器连接时，可提供高性能、安全的无线连接。
 
-自 V1.5.0 固件起，HHKB DMC 已支持 Bolt 连接方式，兼容罗技 Bolt USB 接收器（Logi USB Bolt Receiver）。这意味着用户可以将改装后的 HHKB 键盘直接与现有的罗技 Bolt 接收器进行配对连接使用。
+自 V1.5.0 固件起，HHKB QMC 已支持 Bolt 连接方式，兼容罗技 Bolt USB 接收器（Logi USB Bolt Receiver）。这意味着用户可以将改装后的 HHKB 键盘直接与现有的罗技 Bolt 接收器进行配对连接使用。
 
 下面介绍如何与罗技 Bolt 接收器进行配对连接。
 

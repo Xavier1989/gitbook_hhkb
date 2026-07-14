@@ -12,9 +12,9 @@
 它不仅是首款四模 HHKB 主控，也让 HHKB 成为首个同时支持 USB、BLE、Unifying 和 Bolt 的键盘。
 
 
-HHKB QMC (Quad Mode Controller)
+**HHKB QMC (Quad Mode Controller)**
 
-USB · BLE · Unifying · Bolt
+**USB · BLE · Unifying · Bolt**
 
 The first HHKB controller supporting all four connection methods.
 
