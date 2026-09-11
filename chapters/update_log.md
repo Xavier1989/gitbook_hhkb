@@ -1,32 +1,36 @@
 # 更新记录
+> 20260911
+
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.9.1
+
 > 20260709
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.9.0
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.9.0
 
 > 20260611
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.8.0
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.8.0
     由 DMC 正式更名为 QMC。
 
 > 20260428
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.7.0
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.7.0
 
 > 20260326
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.6.2
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.6.2
 
 > 20251209
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.6.1
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.6.1
 
 > 20250926
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.5.0
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.5.0
 
 > 20250529
 
-    HHKB Pro2/BT/Classic/Hybrid 软件版本 V1.4.0
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.4.0
 
     
 > 20250521
@@ -55,19 +59,19 @@
 
 > 20240330
 
-    HHKB Pro 2/BT 软件版本 V1.3.3
+    HHKB Pro 2/BT 固件版本 V1.3.3
 
 > 20231222
 
-    HHKB Pro 2/BT 软件版本 V1.3.2
+    HHKB Pro 2/BT 固件版本 V1.3.2
 
 > 20231029
 
-    HHKB Pro 2/BT 软件版本 V1.3.1
+    HHKB Pro 2/BT 固件版本 V1.3.1
 
 > 20230919
 
-    HHKB Pro 2/BT 软件版本 V1.3.0
+    HHKB Pro 2/BT 固件版本 V1.3.0
 
 > 20230727
 
@@ -75,19 +79,19 @@
 
 > 20230726
 
-    HHKB Pro BT 软件版本 V1.0.2
+    HHKB Pro BT 固件版本 V1.0.2
 
 > 20230707
 
-    HHKB Pro 2 软件版本 V1.2.5，HHKB Pro BT 软件版本 V1.0.1
+    HHKB Pro 2 固件版本 V1.2.5，HHKB Pro BT 固件版本 V1.0.1
 
 > 20230625
 
-    HHKB Pro BT 硬件版本 V1.2，软件版本 V1.0.0
+    HHKB Pro BT 硬件版本 V1.2，固件版本 V1.0.0
 
 > 20230427
 
-    HHKB Pro 2 软件版本 V1.2.4
+    HHKB Pro 2 固件版本 V1.2.4
 
 > 20230416
 
@@ -95,20 +99,20 @@
 
 > 20201202
 
-    HHKB Pro 2 软件版本 V1.2.3
+    HHKB Pro 2 固件版本 V1.2.3
 
 > 20200929
 
-    HHKB Pro 2 软件版本 V1.2.2
+    HHKB Pro 2 固件版本 V1.2.2
 
 > 20200513
 
-    HHKB Pro 2 软件版本 V1.2.1
+    HHKB Pro 2 固件版本 V1.2.1
 
 > 2020512
 
-    HHKB Pro 2 软件版本 V1.2.0，硬件版本 V2.3。
+    HHKB Pro 2 固件版本 V1.2.0，硬件版本 V2.3。
 
 > 20190806
 
-    HHKB Pro 2 软件版本 V1.1.2，硬件版本 V2.2。
+    HHKB Pro 2 固件版本 V1.1.2，硬件版本 V2.2。
